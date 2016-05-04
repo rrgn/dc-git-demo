@@ -8,4 +8,6 @@ making a third change
 
 making a fourth change
 
-write changes to Git
+write changes to Gitgi
+
+using git commit
