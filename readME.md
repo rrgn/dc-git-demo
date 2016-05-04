@@ -3,3 +3,9 @@
 This is a demo project to practice Git on.
 
 making a second change
+
+making a third change
+
+making a fourth change
+
+write changes to Git
